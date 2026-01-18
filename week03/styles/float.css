@@ -13,6 +13,7 @@ p {
 .col1 img {
     float: right;
     margin: 0 0 15px 15px;
+    height: 5.8cm;
     border: 1px solid rgba(0 0 0 / .3);
     box-shadow: 0 0 30px #777;
 }
@@ -20,7 +21,4 @@ p {
 footer {
     border-top: 1px solid #555;
     padding-top: 5px;
-    /* Remove the comment below and observe the results. */
-
-    /* clear: both; */
 }
